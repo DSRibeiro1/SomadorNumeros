@@ -12,7 +12,7 @@ public class Atividade1 { // exercicio atividades fun��es
 		int i; // contador
 		int numLeitura; // ir� armazenar o que for digitado
 
-		for (i = 1; i <= 9; i++) { // i++ conta de 1 em 1. For serve para contador
+		for (i = 1; i <= 8; i++) { // i++ conta de 1 em 1. For serve para contador
 			System.out.println("Digite o n�mero: " + i);// enxergar a posi��o do contador
 			numLeitura = Integer.parseInt(console.nextLine());
 
